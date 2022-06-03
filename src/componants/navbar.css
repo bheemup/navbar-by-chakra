@@ -1,0 +1,28 @@
+.container{
+    margin-top: 15px;
+    padding: 5px;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.first{
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.second{
+    display: flex;
+    margin-left: 85%;
+    margin-top: -37px;
+    justify-content: space-around;
+}
+.logo{
+    font-weight: bolder;
+}
+.sign{
+    background-color:  #ed64a6;
+    border-radius: 5px;
+    padding: 8px;
+}
